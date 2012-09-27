@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  code: MyString
+  title: MyString
+  subTitle: MyString
+  author: MyString
+  subAuthor: MyString
+  year: 
+  notes: MyText
+  externalLink: MyString
+  created: 
+
+two:
+  code: MyString
+  title: MyString
+  subTitle: MyString
+  author: MyString
+  subAuthor: MyString
+  year: 
+  notes: MyText
+  externalLink: MyString
+  created: 
